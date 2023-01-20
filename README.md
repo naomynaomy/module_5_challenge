@@ -1,4 +1,4 @@
-## Financial Planing
+## Financial Planning
 ---
 ```
 This application creates two financial analysis tools: 
